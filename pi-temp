@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/opt/vc/bin/vcgencmd measure_temp | sed 's/temp=//' | sed "s/'C//" > /home/weewx/archive/pitemp.txt
+
+

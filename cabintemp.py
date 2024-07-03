@@ -4,7 +4,7 @@ import asyncio
 import aiohttp
 import pysmartthings
 
-token = '3c140e3a-3e8f-4ad4-8c39-1c349deb2034'
+token = '3c14fwwe0e3a-3esdfs8f-4asdfd4-8c39-1c34234f2323fdfgdfg'
 sensor= ['5ecc96a2-102f-4a19-81e1-41eecc20df7f','d6160bfc-a81e-43f5-bdf6-fd28b1033466']
 
 
